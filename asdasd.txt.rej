@@ -1,0 +1,9 @@
+diff a/asdasd.txt b/asdasd.txt	(rejected hunks)
+@@ -1,4 +1,2 @@
+ asdasd
+-sdfsdf
+-sdf
+-sdf
+\ No newline at end of file
++this is chnaged from node 5
+\ No newline at end of file
